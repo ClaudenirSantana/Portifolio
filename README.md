@@ -25,16 +25,6 @@ Você pode acessar o portfólio online aqui:
 
 ---
 
-## 📌 Seções do Portfólio
-
-### 🔹 Projetos  
-Alguns dos meus projetos publicados:
-
-- Provedora de Internet  
-- Formulário de Venda de Imóveis  
-- Gerador de Tabuada  
-- Blog relatando a rivalidade **Scorpion vs Sub-Zero**
-
 ### 🔹 Contatos  
 - 📍 Itapeva/SP  
 - 📞 (15) 99696-1544  
@@ -42,25 +32,3 @@ Alguns dos meus projetos publicados:
 - 📸 Instagram: **@claudenirmartinss**  
 - 🐙 GitHub: **ClaudenirSantana**  
 - 💼 LinkedIn: **Claudenir Santana**
-  
----
-
-## 📦 Como Executar Localmente
-
-```bash
-git clone https://github.com/ClaudenirSantana/NOME-DO-REPOSITORIO.git
-```
-
-```bash
-cd NOME-DO-REPOSITORIO
-```
-
-Abra o arquivo:
-
-```
-index.html
-```
-
-Diretamente no seu navegador.
-
----
