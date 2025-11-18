@@ -11,7 +11,7 @@ Este portfólio foi criado para reunir meus principais projetos e mostrar minha 
 Atualmente estudo **HTML, CSS, JavaScript, React, TypeScript e Python**, sempre focado em desenvolver interfaces modernas, responsivas e funcionais.
 
 Você pode acessar o portfólio online aqui:  
-👉 **https://claudenirsantana.github.io/Portifolio/** 
+- **https://claudenirsantana.github.io/Portifolio/** 
 
 ---
 
