@@ -70,7 +70,7 @@ h3 {
 
 .title {
   font-family: "Orbitron", "Arial Black", sans-serif;
-  margin-top: 180px;
+  margin-top: 130px;
   font-size: 5rem;
   font-weight: bold;
   text-align: center;
@@ -118,7 +118,7 @@ h3 {
   font-size: 2.3rem;
   color: #fff;
   line-height: 1.7;
-  margin-top: 140px;
+  margin-top: 5rem;
   text-align: center;
   padding-left: 120px;
   padding-right: 120px;
@@ -142,7 +142,7 @@ h3 {
   font-size: 2.6rem;
   color: #fff;
   text-align: center;
-  margin: 180px 0 20px;
+  margin: 1rem 0 2rem 0;
 }
 
 .projetos {
@@ -150,7 +150,8 @@ h3 {
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 40px;
+  margin-bottom: -170px;
+  margin-top: 2rem;
 }
 
 .projetos-conteudo {
@@ -272,7 +273,6 @@ h3 {
   font-size: 1.1rem;
   padding: 20px;
   text-align: center;
-  margin-top: 70px;
   padding-top: 20px;
   display: flex;
   flex-direction: column;
