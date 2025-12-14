@@ -6,7 +6,6 @@
 
 html,
 body {
-  scroll-padding-top: 120px;
   overflow-x: hidden;
   scroll-behavior: smooth;
 }
@@ -14,8 +13,6 @@ body {
 body {
   font-family: "Poppins", sans-serif;
   background: linear-gradient(to right, #000000, #0f0050);
-  scroll-snap-type: y proximity;
-  overscroll-behavior-y: contain;
 }
 
 main {
@@ -111,7 +108,6 @@ h3 {
   margin-bottom: 0px;
   display: flex;
   justify-content: center;
-  scroll-margin-top: 60px;
 }
 
 .sobre-min {
@@ -379,7 +375,6 @@ h3 {
   .title-projetos {
     padding: 0 30px;
     font-size: 1.9rem;
-    margin-top: 80px;
   }
 
   .meus-projetos,
@@ -389,11 +384,14 @@ h3 {
     margin: 0 auto;
   }
 
-  .meus-projetos a,
+  .meus-projetos a {
+    font-size: 0.9rem;
+    box-sizing: border-box;
+  }
+
   .scorpion,
   .sub-zero {
-    font-size: 0.7rem;
-    box-sizing: border-box;
+    font-size: 0.6rem;
   }
 
   .meus-projetos a.blog {
@@ -409,7 +407,7 @@ h3 {
 @media (max-width: 490px) {
   .title-projetos {
     padding: 0px 20px;
-    font-size: 1.7rem;
+    font-size: 1.8rem;
   }
 }
 
@@ -431,11 +429,14 @@ h3 {
     animation: none;
   }
 
-  .meus-projetos a,
+  .meus-projetos a {
+    font-size: 0.8rem;
+    max-width: 100%;
+  }
+
   .scorpion,
   .sub-zero {
-    font-size: 0.6rem;
-    max-width: 100%;
+    font-size: 0.5rem;
   }
 
   .contatos {
